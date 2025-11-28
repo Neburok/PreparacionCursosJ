@@ -5,7 +5,7 @@ parent: Cursos
 nav_order: 1
 ---
 
-# Ingeniería de Materiales
+
 
 ## Descripción del Curso
 
@@ -40,7 +40,7 @@ Seleccionar materiales óptimos para procesos industriales mediante el análisis
 ## Recursos
 
 ### Material Didáctico
-- [Syllabus completo](syllabus)
+- [Syllabus completo](syllabus/)
 - Presentaciones por unidad
 - Guías de ejercicios
 - Casos de estudio

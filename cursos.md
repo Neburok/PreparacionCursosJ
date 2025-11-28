@@ -17,7 +17,7 @@ Cursos disponibles en el repositorio de materiales didácticos.
 Asignatura fundamental que proporciona las competencias necesarias para seleccionar y utilizar materiales de acuerdo con especificaciones de diseño, considerando aspectos técnicos, económicos y ambientales.
 
 [Ver detalles](/cursos/ingenieria-materiales){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Syllabus](/IngenieriaMateriales/syllabus){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Syllabus](/cursos/ingenieria-materiales/syllabus){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ### Contenido Principal
 
@@ -33,7 +33,7 @@ Asignatura fundamental que proporciona las competencias necesarias para seleccio
 Curso que introduce los fundamentos de la mecánica cuántica y sus aplicaciones, enfatizando la comprensión de fenómenos a nivel atómico y el uso de herramientas computacionales.
 
 [Ver detalles](/cursos/fisica-moderna){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Syllabus](/FisicaModerna/syllabus){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Syllabus](/cursos/fisica-moderna/syllabus){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ### Contenido Principal
 

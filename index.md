@@ -21,12 +21,12 @@ Repositorio de materiales didácticos para las asignaturas de Ingeniería de la 
 
 Actualmente el repositorio incluye los siguientes cursos:
 
-- [Física Moderna](/cursos/fisica-moderna)
+- [Física Moderna](/cursos/fisica-moderna/)
   - Fundamentos de la mecánica cuántica y sus aplicaciones
   - Fenómenos cuánticos y comportamiento de la materia a nivel atómico
   - Uso de simulaciones y herramientas computacionales
 
-- [Ingeniería de Materiales](/cursos/ingenieria-materiales)
+- [Ingeniería de Materiales](/cursos/ingenieria-materiales/)
   - Propiedades y comportamiento de materiales en ingeniería
   - Selección de materiales para aplicaciones industriales
   - Análisis de casos y proyectos integrados

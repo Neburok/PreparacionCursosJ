@@ -36,10 +36,10 @@ nav_external_links_custom_icons: true
 collections:
   cursos:
     output: true
-    permalink: /:collection/:name/
+    permalink: /:collection/:path/
   materiales:
     output: true
-    permalink: /:collection/:name/
+    permalink: /:collection/:path/
 
 # Orden de navegación por defecto
 nav_sort: case_sensitive

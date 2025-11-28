@@ -5,7 +5,7 @@ parent: Cursos
 nav_order: 2
 ---
 
-# Física Moderna
+
 
 ## Descripción del Curso
 
@@ -50,7 +50,7 @@ Este curso introduce los fundamentos de la mecánica cuántica y sus aplicacione
 ## Recursos
 
 ### Material Didáctico
-- [Syllabus completo](syllabus)
+- [Syllabus completo](syllabus/)
 - Presentaciones por unidad
 - Guías de ejercicios
 - Simulaciones interactivas
