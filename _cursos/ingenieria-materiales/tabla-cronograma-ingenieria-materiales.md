@@ -1,3 +1,10 @@
+---
+layout: page
+title: Cronograma Detallado
+parent: Ingeniería de Materiales
+nav_order: 3
+---
+
 ## 8. Cronograma y Contenidos (42 Sesiones)
 
 | Semana | Sesión | Unidad Temática | Contenidos Clave | Actividades Sugeridas | Evaluación Asociada |

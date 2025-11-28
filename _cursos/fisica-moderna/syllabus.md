@@ -1,3 +1,10 @@
+---
+layout: page
+title: Syllabus
+parent: Física Moderna
+nav_order: 1
+---
+
 # PLAN DE ASIGNATURA: FÍSICA MODERNA
 
 **Carrera:** Ingeniería en Nanotecnología  

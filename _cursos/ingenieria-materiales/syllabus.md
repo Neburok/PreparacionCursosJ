@@ -1,3 +1,10 @@
+---
+layout: page
+title: Syllabus
+parent: Ingeniería de Materiales
+nav_order: 1
+---
+
 # PLAN DE ASIGNATURA: INGENIERÍA DE MATERIALES
 
 **Carrera:** Ingeniería Industrial  

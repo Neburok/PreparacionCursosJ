@@ -40,7 +40,7 @@ Seleccionar materiales óptimos para procesos industriales mediante el análisis
 ## Recursos
 
 ### Material Didáctico
-- [Syllabus completo](/IngenieriaMateriales/syllabus)
+- [Syllabus completo](syllabus)
 - Presentaciones por unidad
 - Guías de ejercicios
 - Casos de estudio

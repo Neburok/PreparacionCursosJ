@@ -50,7 +50,7 @@ Este curso introduce los fundamentos de la mecánica cuántica y sus aplicacione
 ## Recursos
 
 ### Material Didáctico
-- [Syllabus completo](/FisicaModerna/syllabus)
+- [Syllabus completo](syllabus)
 - Presentaciones por unidad
 - Guías de ejercicios
 - Simulaciones interactivas
